@@ -1,5 +1,5 @@
 ### Hi there, I'm Lynix 👋
-### 👨🏻‍💻 &nbsp;Some Information About Myself
+### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying my final year in High School.\
