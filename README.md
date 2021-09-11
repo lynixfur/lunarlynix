@@ -27,7 +27,9 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 ### ⚙️ &nbsp;GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynixzenial&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lynixzenial)
+<a href="https://github.com/lynixzenial">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lynixzenial&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lynixzenial&layout=compact&langs_count=8"/>
+</a>
 
     
