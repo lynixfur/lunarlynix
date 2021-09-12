@@ -7,7 +7,8 @@
 ✍️ &nbsp;In my free time, I write code & manage projects.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lunarlynix@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions! \
+📄 &nbsp;Looking to get a Job at Discord with my skills valued! 
 
 ### 🛠 &nbsp;Tech Stack
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -44,12 +45,12 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 ### 🤝🏻 Connect with Me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
 ![Discord](https://img.shields.io/badge/Lynix%233400-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/LunarLynix-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
-<a href="https://github.com/lynixzenial">
+<a href="https://github.com/lunarlynix">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lunarlynix&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lunarlynix&layout=compact&langs_count=8"/>
 </a>
