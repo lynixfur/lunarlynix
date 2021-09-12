@@ -7,8 +7,6 @@
 ✍️ &nbsp;In my free time, I write code & manage projects.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lunarlynix@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions! \
-📄 &nbsp;Looking to get a Job at Discord with my skills valued! 
 
 ### 🛠 &nbsp;Tech Stack
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
