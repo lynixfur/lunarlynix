@@ -48,6 +48,7 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Lynix%233400-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/LunarLynix-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/Hack%20The%20Box-%22B2A2A.svg?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/lunarlynix">
