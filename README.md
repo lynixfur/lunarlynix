@@ -45,7 +45,7 @@
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 ### 🤝🏻 Connect with Me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Lynix%233400-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Twitter](https://img.shields.io/badge/LunarLynix-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
