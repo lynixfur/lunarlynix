@@ -1,8 +1,6 @@
 ### Hi there, I'm Lynix 👋
 ### 👨🏻‍💻 &nbsp;About Me
 
-⚠️ Currently Exploiting Samsung S9 Snapdragon | LynxOS for S9 Snapdragon ⚠️
-
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying my final year in High School.\
 🌱 &nbsp;I'm on track for learning more about Pentesting, Artificial Intelligence, and Cloud Architecture.\
