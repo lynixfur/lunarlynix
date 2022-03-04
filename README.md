@@ -1,6 +1,7 @@
 ### Hi there, I'm Lynix 👋
 ### 👨🏻‍💻 &nbsp;About Me
 
+💼 &nbsp;In the process of applying for Natrix Technologies in IT.
 💡 &nbsp;I like to explore new technologies and develop new software solutions.\
 🌱 &nbsp;I'm on track for learning more about Pentesting and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I write code & try to find bugs in hardware.\
