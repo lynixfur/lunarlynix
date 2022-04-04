@@ -1,21 +1,24 @@
 ```css
 ~ whois lynix
-                  ......                  
-            .::############::.            
-        .:######################:.        
-     .:############################:.     
-   .:#####´`³################³´`####:.      LunarLynix (Anthony Roy)
-  .#######.   `´´        ``´   .#######.    -----------
- .########:                    :########.   ︎︎Student: CCNB Dieppe Campus
-.########´                      `########.  ︎︎Skills: Software Development, Backend + Frontend
-:########                        ########:  ︎︎Cybersecurity:‌ In Training,
-`########.                      .########´  Hack The Box, Try Hack ME, CCNB
- ³########:.                  .:########³   ︎︎Website: lynix.ca
-  `############:..      ..:############´    ︎︎Uptime: 18 yrs
-    `###. `³####´        `###########´      ︎︎OS: Arch
-      `###:. `³´          #########´        ︎︎Animal:‌ Canadian Lynx
-        `³######          ######³´        
-            `³³´          `³³´     
+
+     ,  ,
+    (\ "\
+    ,--;.)._
+   ).,-._ . ""-,_
+  /.'".- " 8 o . ";_                             
+  `L_ ,-)) o . 8.o .""-.---...,,--------.._   _"";    LunarLynix (Anthony Roy)
+   """  ")) 8 . . 8 . 8   8  8  8  8. 8 8 ._""._;     -----------
+         ";. .8 .8  .8  8  8  8  8 . 8. 8 .".""       Student: CCNB Dieppe Campus
+            ;.. 8 ; .  8. 8  8  8 . } 8 . 8 :         Skills: Software Development, Backend + Frontend
+             ;.. 8 ; 8. 8  8  8  8 (  . 8 . :         Cybersecurity:‌ In Training,
+               ;. 8 \ .   .......;;;  8 . 8 :         Hack The Box, Try Hack ME, CCNB
+                ;o  ;"\\\\```````( o(  8   .;         Website: lynix.ca
+                : o:  ;           :. : . 8 (          Uptime: 18 yrs
+                :o ; ;             "; ";. o :         OS: Arch
+                ; o; ;               "; ;";..\        Animal:‌ Canadian Lynx
+                ;.; .:                )./  ;. ;
+               _).< .;              _;./  _;./
+             ;"__/--"             ((__7  ((_J 
 ```
 # Anthony Roy
 Hey! My name is Anthony or **Lynix**, I'm a student at CCNB *(September 2022)* studying for Cyber Security. I'm from Canada! 
