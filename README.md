@@ -28,7 +28,7 @@ Hey! My name is Anthony or **Lynix**, I'm a student at CCNB *(in September 2022)
 
 
 # 🛠 &nbsp;Tech Stack
-Here is the knowledge or tools I frequently work with!
+Here are the tools I work with! Take a look :) 
 
 **Software**
 
