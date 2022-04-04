@@ -1,19 +1,19 @@
 ```css
-~ neofetch
+~ whois lynix
                   ......                  
             .::############::.            
         .:######################:.        
      .:############################:.     
-   .:#####´`³################³´`####:.      name@github
+   .:#####´`³################³´`####:.      LunarLynix (Anthony Roy)
   .#######.   `´´        ``´   .#######.    -----------
- .########:                    :########.   ︎︎Key: Value
-.########´                      `########.  ︎︎Key: "String"
-:########                        ########:  ︎︎List:‌ Entry One,
-`########.                      .########´  Line Wrap, Entry Three
- ³########:.                  .:########³   ︎︎Key: Value
-  `############:..      ..:############´    ︎︎Numbers: 123 123abc
-    `###. `³####´        `###########´      ︎︎Mo‌re (text): Value (text)
-      `###:. `³´          #########´        ︎︎Key:‌ A lot of text
+ .########:                    :########.   ︎︎Student: CCNB Dieppe Campus
+.########´                      `########.  ︎︎Skills: Software Development, Backend + Frontend
+:########                        ########:  ︎︎Cybersecurity:‌ In Training,
+`########.                      .########´  Hack The Box, Try Hack ME, CCNB
+ ³########:.                  .:########³   ︎︎Website: lynix.ca
+  `############:..      ..:############´    ︎︎Uptime: 18 yrs
+    `###. `³####´        `###########´      ︎︎OS: Arch
+      `###:. `³´          #########´        ︎︎Animal:‌ Canadian Lynx
         `³######          ######³´        
             `³³´          `³³´     
 ```
@@ -21,8 +21,8 @@
 Hey! My name is Anthony or **Lynix**, I'm a student at CCNB *(September 2022)* studying for Cyber Security. I'm from Canada! 
 Always looking for new oportunities. 
 
-![Available](https://img.shields.io/badge/Availability-Not%20Available-orange?style=for-the-badge)
-![Available](https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=for-the-badge)
+[![Gmail Badge](https://img.shields.io/badge/-lynix@lynix.ca-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lynix@lynix.ca)](mailto:lynix@lynix.ca)
+![Twitter Badge](https://img.shields.io/badge/-@LunarLynix-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)
 
 **Work In Progress...**
 
