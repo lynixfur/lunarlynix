@@ -14,9 +14,9 @@
                ;. 8 \ .   .......;;;  8 . 8 :         Hack The Box, Try Hack ME, CCNB
                 ;o  ;"\\\\```````( o(  8   .;         Website: lynix.ca
                 : o:  ;           :. : . 8 (          Uptime: 18 yrs
-                :o ; ;             "; ";. o :         OS: Arch
-                ; o; ;               "; ;";..\        Animal:‌ Canadian Lynx
-                ;.; .:                )./  ;. ;
+                :o ; ;             "; ";. o :         Favorite OS: Arch
+                ; o; ;               "; ;";..\        Favorite Animal:‌ Canadian Lynx
+                ;.; .:                )./  ;. ;       Favorite Hex Code : #1d4ed8
                _).< .;              _;./  _;./
              ;"__/--"             ((__7  ((_J 
 ```
