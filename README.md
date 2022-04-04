@@ -28,3 +28,13 @@ Hey! My name is Anthony or **Lynix**, I'm a student at CCNB *(in September 2022)
 
 **Work In Progress...**
 
+# 🛠 &nbsp;Tech Stack
+Here is the knowledge or tools I frequently work with!
+
+![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![C++](https://img.shields.io/badge/c++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%2320232a.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%2320232a?style=for-the-badge&logo=JSON%20web%20tokens)
+![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=white)
