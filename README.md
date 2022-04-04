@@ -1,5 +1,22 @@
-[![Header](https://www.hoiunitedway.org/wp-content/uploads/volunteer-page-test-banner-large.jpg "Header")](https://imgur.com/d6Tvp1o)
-
+```css
+~ neofetch
+                  ......                  
+            .::############::.            
+        .:######################:.        
+     .:############################:.     
+   .:#####´`³################³´`####:.      name@github
+  .#######.   `´´        ``´   .#######.    -----------
+ .########:                    :########.   ︎︎Key: Value
+.########´                      `########.  ︎︎Key: "String"
+:########                        ########:  ︎︎List:‌ Entry One,
+`########.                      .########´  Line Wrap, Entry Three
+ ³########:.                  .:########³   ︎︎Key: Value
+  `############:..      ..:############´    ︎︎Numbers: 123 123abc
+    `###. `³####´        `###########´      ︎︎Mo‌re (text): Value (text)
+      `###:. `³´          #########´        ︎︎Key:‌ A lot of text
+        `³######          ######³´        
+            `³³´          `³³´     
+```
 # Anthony Roy
 Hey! My name is Anthony or **Lynix**, I'm a student at CCNB *(September 2022)* studying for Cyber Security. I'm from Canada! 
 Always looking for new oportunities. 
