@@ -26,10 +26,16 @@ Hey! My name is Anthony or **Lynix**, I'm a student at CCNB *(in September 2022)
 [![Gmail Badge](https://img.shields.io/badge/-lynix@lynix.ca-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lynix@lynix.ca)](mailto:lynix@lynix.ca)
 ![Twitter Badge](https://img.shields.io/badge/-@LunarLynix-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)
 
-**Work In Progress...**
 
 # 🛠 &nbsp;Tech Stack
 Here is the knowledge or tools I frequently work with!
+
+**Software**
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Stacks**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=white)
