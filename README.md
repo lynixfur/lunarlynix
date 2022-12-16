@@ -13,7 +13,7 @@
              ;.. 8 ; 8. 8  8  8  8 (  . 8 . :         Cybersecurity:‌ In Training,
                ;. 8 \ .   .......;;;  8 . 8 :         Hack The Box, Try Hack ME, CCNB
                 ;o  ;"\\\\```````( o(  8   .;         Website: lynix.ca
-                : o:  ;           :. : . 8 (          Uptime: 18 yrs
+                : o:  ;           :. : . 8 (          Uptime: 19 yrs
                 :o ; ;             "; ";. o :         Favorite OS: Arch
                 ; o; ;               "; ;";..\        Favorite Animal:‌ Canadian Lynx
                 ;.; .:                )./  ;. ;       Favorite Hex Code : #1d4ed8
