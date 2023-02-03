@@ -31,7 +31,8 @@
 **Contact Me :**
 
 [![Gmail Badge](https://img.shields.io/badge/-lynix@lynix.ca-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lynix@lynix.ca)](mailto:lynix@lynix.ca)
-![Twitter Badge](https://img.shields.io/badge/-@LunarLynix-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)
+![Twitter Badge](https://img.shields.io/badge/@LunarLynix-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 # 🛠 &nbsp;Tech Stack
