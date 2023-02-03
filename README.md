@@ -25,7 +25,9 @@
              ;"__/--"             ((__7  ((_J 
 ```
 # Anthony Roy
-Hey! My name is Anthony or **Lynix**, I'm a student at CCNB *(in September 2022)* studying for Cyber Security. I'm currently living in Canada in the Atlantic Region. I'm always looking to make my skills wider and learn new things. Recently this new thing is Cyber Security!
+👋 Hey! I'm Anthony! A Software Developper, System Administrator & Cybersecurity Student! I'm currently learning a vast varierty of new technologies, I'm motivated to keep moving forward and to get into the cybersecurity career! I'm currently a student at the CCNB College in the Cybersecurity Program.
+
+**Contact Me :**
 
 [![Gmail Badge](https://img.shields.io/badge/-lynix@lynix.ca-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lynix@lynix.ca)](mailto:lynix@lynix.ca)
 ![Twitter Badge](https://img.shields.io/badge/-@LunarLynix-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)
@@ -33,7 +35,6 @@ Hey! My name is Anthony or **Lynix**, I'm a student at CCNB *(in September 2022)
 
 # 🛠 &nbsp;Tech Stack
 Here are the tools I work with! Take a look :) 
-
 **Software**
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
