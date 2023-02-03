@@ -21,7 +21,7 @@
                 :o ; ;             "; ";. o :         Favorite OS: Arch
                 ; o; ;               "; ;";..\        Favorite Animal:‌ Canadian Lynx
                 ;.; .:                )./  ;. ;       Favorite Hex Code : #1d4ed8
-               _).< .;              _;./  _;./
+               _).< .;              _;./  _;./        Hostname: lynix.ca
              ;"__/--"             ((__7  ((_J 
 ```
 # Anthony Roy
