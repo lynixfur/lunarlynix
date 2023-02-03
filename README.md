@@ -34,7 +34,8 @@
 
 
 # 🛠 &nbsp;Tech Stack
-Here are the tools I work with! Take a look :) 
+Here are the tools I work with! Take a look :)  
+
 **Software**
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
