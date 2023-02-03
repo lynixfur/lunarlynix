@@ -1,3 +1,6 @@
+# Anthony Roy (Lynix)
+👋 Hey! I'm Anthony! A Software Developper, System Administrator & Cybersecurity Student! I'm currently learning a vast varierty of new technologies, I'm motivated to keep moving forward and to get into the cybersecurity career! I'm currently a student at the CCNB College in the Cybersecurity Program.
+
 ```
 ~ whois lynix
 
@@ -24,8 +27,6 @@
                _).< .;              _;./  _;./        Hostname: lynix.ca
              ;"__/--"             ((__7  ((_J 
 ```
-# Anthony Roy
-👋 Hey! I'm Anthony! A Software Developper, System Administrator & Cybersecurity Student! I'm currently learning a vast varierty of new technologies, I'm motivated to keep moving forward and to get into the cybersecurity career! I'm currently a student at the CCNB College in the Cybersecurity Program.
 
 **Contact Me :**
 
