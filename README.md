@@ -5,7 +5,7 @@
 ~ whois lynix
 
 -------------------------------------------------------------------------------------------------------
-| Notice: Currently Learning DevOps Tools / Python AI Machine Learning!                               |
+| Notice: Currently Learning DevOps Tools / Python AI Machine Learning / RUST!!!!                     |
 -------------------------------------------------------------------------------------------------------
 
      ,  ,
