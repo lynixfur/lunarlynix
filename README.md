@@ -2,30 +2,30 @@
 👋 Hey! I'm Anthony! A Software Developper, System Administrator & Cybersecurity Student! I'm currently learning a vast varierty of new technologies, I'm motivated to keep moving forward and to get into the cybersecurity career! I'm currently a student at the CCNB College in the Cybersecurity Program.
 
 ```
-~ whois lynix
-
--------------------------------------------------------------------------------------------------------
-| Notice: Currently Learning DevOps Tools / Python AI Machine Learning / RUST!!!!                     |
--------------------------------------------------------------------------------------------------------
-
-     ,  ,
-    (\ "\
-    ,--;.)._
-   ).,-._ . ""-,_
-  /.'".- " 8 o . ";_                             
-  `L_ ,-)) o . 8.o .""-.---...,,--------.._   _"";    LunarLynix (Anthony Roy)
-   """  ")) 8 . . 8 . 8   8  8  8  8. 8 8 ._""._;     -----------
-         ";. .8 .8  .8  8  8  8  8 . 8. 8 .".""       Student: CCNB Dieppe Campus
-            ;.. 8 ; .  8. 8  8  8 . } 8 . 8 :         Skills: Software Development, Backend + Frontend
-             ;.. 8 ; 8. 8  8  8  8 (  . 8 . :         Cybersecurity:‌ In Training,
-               ;. 8 \ .   .......;;;  8 . 8 :         Hack The Box, Try Hack ME, CCNB
-                ;o  ;"\\\\```````( o(  8   .;         Website: lynix.ca
-                : o:  ;           :. : . 8 (          Uptime: 19 yrs
-                :o ; ;             "; ";. o :         Favorite OS: Arch
-                ; o; ;               "; ;";..\        Favorite Animal:‌ Canadian Lynx
-                ;.; .:                )./  ;. ;       Favorite Hex Code : #1d4ed8
-               _).< .;              _;./  _;./        Hostname: lynix.ca
-             ;"__/--"             ((__7  ((_J 
+~ neofetch lynix
+             
+                           ,ood8888booo,
+                      ,od8'         `8bo,
+                   ,odP                 Ybo,
+                 ,d8'                     `8b,
+                ,oP                         Yo,
+               ,8                             8,
+               8Y                             Y8
+               8l                   aba       l8     LunarLynix (Anthony Roy)
+               Ya               ,ad'  8       aY     -----------
+                Y8,           aY8,   ,P     ,8Y      Hostname : lynix.ca
+                 Y8o          aP     8     o8Y       Uptime : 19 yrs
+                  `Y8      ,aP'      8    8Y'        Student : CCNB Dieppe Campus
+          ,arooowwwwwooo88P'        d'  aY'          Skills : Software Development, Sysadmin, Cybersecurity
+       ,adP                        ,aa8P             Favorite OS : Linux
+      aP  a8a,                     d'                Favorite Animal :‌ Gray Wolf
+     $       Y          ,    ,    ,8                 Favorite Hostname : legoshi.furred.org
+    $  $,    P     a8888b   daaa  8                  Favorite Hex Code : #1d4ed8
+   $  $ Y  aP 8  ad      8  8   8 `a                 Favorite Programming Language : Rust
+   $ $  8 8  d  P        d ,P   `8 8
+   `$'  d 8  `8 ba       Y 8     `8 ba
+        8  ba  8a$       8  ba    `8a$
+         Yaa$             Yaa$                     
 ```
 
 **Contact Me :**
