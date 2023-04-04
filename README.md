@@ -2,7 +2,7 @@
 👋 Hey! I'm Anthony! A Software Developper, System Administrator & Cybersecurity Student! I'm currently learning a vast varierty of new technologies, I'm motivated to keep moving forward and to get into the cybersecurity career! I'm currently a student at the CCNB College in the Cybersecurity Program.
 
 > **Note**  
-> I'm currently learning Rust 🦀 and DevOps 💻!
+> I'm currently learning Rust 🦀, R , Data Analytics and DevOps 💻!
 ```
 ~ neofetch lynix
              
