@@ -5,7 +5,7 @@
 > I'm currently learning Rust 🦀, R , Data Analytics and DevOps 💻!
 ```
 ~ neofetch lynix
-           
+[Error] Lynx not found!   
 ```
 
 **Contact Me :**
